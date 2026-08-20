@@ -37,5 +37,4 @@ Por meio dos gráficos, indicadores e filtros interativos, é possível explorar
 
 ### 📸 Preview
 
-Adicione uma imagem do dashboard na pasta `![Dashboard](image-1.png)` do projeto:
-
+![Dashboard](image-1.png)
