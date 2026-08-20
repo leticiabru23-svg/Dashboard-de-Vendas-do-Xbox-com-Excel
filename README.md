@@ -37,4 +37,4 @@ Por meio dos gráficos, indicadores e filtros interativos, é possível explorar
 
 ### 📸 Preview
 
-![Dashboard](image-1.png)
+![Dashboard](image.png)
